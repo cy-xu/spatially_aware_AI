@@ -1,0 +1,30 @@
+scene_name,file_name,label,x,y
+ai_001_001,frame.0006.color.jpg,a rubber duck,546,140
+ai_001_001,frame.0006.color.jpg,a box of q-tips,688,183
+ai_001_001,frame.0049.color.jpg,a bathtub,343,668
+ai_001_001,frame.0060.color.jpg,a large blue scrub brush,575,375
+ai_001_002,frame.0018.color.jpg,a laptop,749,653
+ai_001_002,frame.0018.color.jpg,a subwoofer,709,377
+ai_001_003,frame.0007.color.jpg,a plate of cookies,385,272
+ai_001_003,frame.0007.color.jpg,a cup of coffee,491,275
+ai_001_003,frame.0009.color.jpg,a clock,317,78
+ai_001_003,frame.0021.color.jpg,a black office chair,896,374
+ai_001_004,frame.0021.color.jpg,a floor lamp,421,400
+ai_001_004,frame.0021.color.jpg,a painting of flowers,109,305
+ai_001_005,frame.0000.color.jpg,a cooking pot,722,453
+ai_001_005,frame.0019.color.jpg,a head of lettuce,814,664
+ai_001_005,frame.0062.color.jpg,an oven,730,259
+ai_001_006,frame.0022.color.jpg,a gong,588,281
+ai_001_006,frame.0033.color.jpg,a bed,509,513
+ai_001_007,frame.0000.color.jpg,a bottle of wine,430,485
+ai_001_007,frame.0025.color.jpg,a shower stall,623,257
+ai_001_007,frame.0004.color.jpg,a bathtub,878,735
+ai_001_008,frame.0000.color.jpg,a TV screen,677,323
+ai_001_008,frame.0014.color.jpg,a remote control,647,538
+ai_001_008,frame.0000.color.jpg,a couch,286,440
+ai_001_008,frame.0000.color.jpg,a clock,247,363
+ai_001_009,frame.0000.color.jpg,a couch,421,440
+ai_001_010,frame.0009.color.jpg,a refrigerator,228,477
+ai_001_010,frame.0033.color.jpg,a microwave,421,379
+ai_001_010,frame.0050.color.jpg,an oven,320,603
+ai_001_010,frame.0032.color.jpg,a kitchen island,535,546
