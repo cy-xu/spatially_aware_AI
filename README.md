@@ -3,6 +3,24 @@
 ![diagram](media/teaser.png)
 Figure 1: This work propose a multimodal 3D reconstruction pipeline that prepares physical spaces for vision-language perception and object-level interactive machine learning. Within a few minutes after a user scans the environment, they can search the space with abstract natural language queries or create an intelligent invetory of physical objects through a novel spatially aware AI AR interface.
 
+### Paper now available
+[arXiv](https://arxiv.org/abs/2410.04652)  
+[IEEE ISMAR](https://ieeexplore.ieee.org/abstract/document/10765411)
+
+```
+@INPROCEEDINGS{10765411,
+  author={Xu, Chengyuan and Kumaran, Radha and Stier, Noah and Yu, Kangyou and Höllerer, Tobias},
+  booktitle={2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)}, 
+  title={Multimodal 3D Fusion and In-Situ Learning for Spatially Aware AI}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={485-494},
+  keywords={Solid modeling;Computer vision;Three-dimensional displays;Semantics;Pipelines;Machine learning;Context awareness;Linguistics;Search problems;Augmented reality;Augmented reality;artificial intelligence;interactive machine learning;scene understanding},
+  doi={10.1109/ISMAR62088.2024.00063}}
+```
+
+Please feel free to email the authors if you have trouble getting the system running :) 
 
 ### Quick start
 
