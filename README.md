@@ -3,7 +3,10 @@
 ![diagram](media/teaser.png)
 Figure 1: This work propose a multimodal 3D reconstruction pipeline that prepares physical spaces for vision-language perception and object-level interactive machine learning. Within a few minutes after a user scans the environment, they can search the space with abstract natural language queries or create an intelligent invetory of physical objects through a novel spatially aware AI AR interface.
 
-### Paper now available
+### Demo, presentation, and paper now available
+[Demo video](https://www.youtube.com/watch?v=iNjjL3ddBRI&ab_channel=CYXu)  
+[ISMAR 2024 presentation](https://docs.google.com/presentation/d/1jG9Tz2eW5zCed_Wpy0clwWU_rk1G4nfO/edit?usp=sharing&ouid=104102677475465607221&rtpof=true&sd=true)
+
 [arXiv](https://arxiv.org/abs/2410.04652)  
 [IEEE ISMAR](https://ieeexplore.ieee.org/abstract/document/10765411)
 
